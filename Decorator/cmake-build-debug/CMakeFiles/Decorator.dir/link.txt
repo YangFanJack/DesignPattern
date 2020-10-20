@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Decorator.dir/objects.a
+D:\Programs\Qt\Qt5.14.2\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\Decorator.dir/objects.a @CMakeFiles\Decorator.dir\objects1.rsp
+D:\Programs\Qt\Qt5.14.2\Tools\mingw730_64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Decorator.dir/objects.a -Wl,--no-whole-archive  -o Decorator.exe -Wl,--out-implib,libDecorator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Decorator.dir\linklibs.rsp
